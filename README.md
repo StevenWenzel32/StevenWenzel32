@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey there fellow tech people👋
+
+I'm currently in school for a CS degree.
+I'm currently working on the game Knight and Slime, which you can check out below. If you're interested, I'm looking for collaborators (especially an artist).
+You can reach out to me at my dev email: onceaknight611@gmail.com
 
 <!--
 **StevenWenzel32/StevenWenzel32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
