@@ -1,8 +1,8 @@
 ## Hey there fellow tech people👋
 
-I'm currently in school for a CS degree.
+I'm currently in school at WGU for a CS degree.
 
-I'm currently working on the game Knight and Slime, which you can check out below. If you're interested, I'm looking for collaborators (especially an artist).
+I'm currently working on the game Knight and Slime, which you can check out below. If you're interested, I'm looking for collaborators (especially an artist). (updates are no longer expected every week for the next 6 months while I focus on school)
 
 You can reach out to me at my dev email: onceaknight611@gmail.com
 
