@@ -1,4 +1,4 @@
-## Hey there fellow tech people👋
+## Hey there, fellow tech people!👋
 
 I'm a recent graduate from WGU with a Bachelor's in Computer Science.
 
