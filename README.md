@@ -2,8 +2,8 @@
 
 I'm a recent graduate from WGU with a Bachelor's in Computer Science.
 
-The main project I'm currently working on is a bullet heaven game (name in progress, open to ideas). 
-The game Knight and Slime is now a side project. (updates are no longer consistent)
+The project I'm currently working on is called Heroes of Heaven, a bullet hell game where you play as people from the Bible.
+The game Knight and Slime is now a side project. (Updates are no longer consistent)
 
 You can reach out to me at my dev email: onceaknight611@gmail.com
 
